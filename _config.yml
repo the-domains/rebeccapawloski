@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.7425532
+  brandStrength: 1
+  lightness: 0
+  brandColors:
+    - '#050504'
+    - '#6D8087'
+    - '#FFFF9A'
+    - '#D89A80'
+    - '#B43902'
+  rhythmicContrast: 0
+typography_spectrum: 1
+name: Rebeccapawloski
