@@ -1,14 +1,28 @@
+name: Rebeccapawloski
+favicon: null
 layout_spectrum: 0
+typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7425532
-  brandStrength: 1
-  lightness: 0
   brandColors:
     - '#050504'
     - '#6D8087'
     - '#FFFF9A'
     - '#D89A80'
     - '#B43902'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.7425532
   rhythmicContrast: 0
-typography_spectrum: 1
-name: Rebeccapawloski
+purpose: []
